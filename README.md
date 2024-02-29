@@ -1,7 +1,8 @@
 
 
 # Process Mining - Marine Plastic Detection
-The purpose of the project is the development of a software factory based on the “Machine Learning Ops” paradigm, a DevOps approach able to deploy and maintain machine learning models and IT operations in production reliably and efficiently.<br>
+The purpose of the project is the development of a software factory based on the “Machine Learning Ops” paradigm, a DevOps approach able to deploy and maintain machine learning models and IT operations in production reliably and efficiently.
+
 The Marine Plastic Detection problem, in particular, has been targeted during the development of this project. 
 
 (Repository for process mining and intelligence's project)
